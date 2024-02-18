@@ -1,0 +1,16 @@
+ca-sau.png
+size:475,217
+filter:Linear,Linear
+ca-sau/chan-phai-1
+bounds:383,95,90,88
+rotate:180
+ca-sau/chan-phai-2
+bounds:397,16,75,69
+ca-sau/dau
+bounds:227,20,176,76
+rotate:180
+ca-sau/ham
+bounds:2,2,174,75
+rotate:180
+ca-sau/than
+bounds:2,61,397,154

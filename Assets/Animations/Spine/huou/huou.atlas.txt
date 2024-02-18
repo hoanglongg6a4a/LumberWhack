@@ -1,0 +1,15 @@
+huou.png
+size:501,192
+filter:Linear,Linear
+deer/body
+bounds:2,2,222,188
+deer/head
+bounds:226,31,154,159
+offsets:1,1,156,161
+deer/r-leg-1
+bounds:382,8,66,167
+deer/r-leg-2
+bounds:436,30,63,160
+rotate:180
+deer/tail
+bounds:2,38,51,53
